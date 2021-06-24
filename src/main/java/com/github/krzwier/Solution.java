@@ -1,4 +1,4 @@
-package euler001;
+package com.github.krzwier;
 
 import java.util.*;
 
